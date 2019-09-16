@@ -102,7 +102,7 @@ cc.Class({
             this.xSpeed=this.maxMoveSpeed*this.xSpeed/Math.abs(this.xSpeed);
         }
         this.node.x += this.xSpeed * dt;
-        if (this.node.x > 480 || this.node.x < -480){
+        if (this.node.x > this.node.parent.width / 2 || this.node.x < -this.node.parent.width / 2){
             this.node.x -= this.xSpeed * dt;
             this.xSpeed=0;
         }
