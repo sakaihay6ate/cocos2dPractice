@@ -111,6 +111,12 @@
       "y": 274,
       "width": 600,
       "height": 564
+    },
+    "sprite-editor": {
+      "x": 941,
+      "y": 269,
+      "width": 516,
+      "height": 538
     }
   }
 }

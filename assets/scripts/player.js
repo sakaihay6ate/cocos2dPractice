@@ -12,10 +12,18 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        jumpHeight:0,
-        jumpDuration:0,
-        maxMoveSpeed:0,
-        accel:0,
+        jumpHeight:200,
+        // {
+        //     get: function () {
+        //         return this._jumpHeight;
+        //     },
+        //     set: function (value) {
+        //         this._jumpHeight = value;
+        //     }
+        // },
+        jumpDuration:0.3,
+        maxMoveSpeed:400,
+        accel:350,
         jumpAudio:{
             default:null,
             type:cc.AudioClip
@@ -49,9 +57,11 @@ cc.Class({
         switch(event.keyCode){
             case cc.macro.KEY.a:
                 this.accLeft=true;
+                console.log(`press A`);
                 break;
             case cc.macro.KEY.d:
                 this.accRight=true;
+                console.log(`press D`);
                 break;
         }
     },

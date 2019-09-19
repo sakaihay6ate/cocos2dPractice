@@ -1,69 +1,137 @@
-2019-09-16T01:04:15.634Z - normal: Load ~/.CocosCreator/settings.json
-2019-09-16T01:04:16.804Z - normal: Initializing Asset Database
-2019-09-16T01:04:16.835Z - normal: checking language setting...
-2019-09-16T01:04:16.835Z - normal: Language: en
-2019-09-16T01:04:20.517Z - success: preview server running at http://localhost:7456
-2019-09-16T01:04:20.520Z - success: protocol editor-framework registered
-2019-09-16T01:04:20.520Z - success: protocol app registered
-2019-09-16T01:04:20.520Z - success: protocol theme registered
-2019-09-16T01:04:20.520Z - success: protocol packages registered
-2019-09-16T01:04:20.520Z - success: protocol uuid registerred
-2019-09-16T01:04:20.520Z - success: protocol db registerred
-2019-09-16T01:04:20.520Z - success: protocol thumbnail registerred
-2019-09-16T01:04:20.520Z - success: protocol unpack registerred
-2019-09-16T01:04:20.520Z - success: protocol disable-commonjs registerred
-2019-09-16T01:04:20.771Z - normal: connected!
-2019-09-16T01:04:20.772Z - normal: Check project C:\backup\D\project\Cocos2d\start_project\start_project
-2019-09-16T01:04:20.774Z - normal: Initializing project C:\backup\D\project\Cocos2d\start_project\start_project
-2019-09-16T01:04:22.049Z - normal: Initializing Cocos2d
-2019-09-16T01:04:25.209Z - normal: Initializing engine extends
-2019-09-16T01:04:25.665Z - success: asset-db-debugger loaded
-2019-09-16T01:04:25.668Z - success: baidu-adapter loaded
-2019-09-16T01:04:25.671Z - success: color-picker loaded
-2019-09-16T01:04:25.966Z - success: fb-audience-network loaded
-2019-09-16T01:04:26.095Z - success: fb-live-stream loaded
-2019-09-16T01:04:26.118Z - success: google-play-instant loaded
-2019-09-16T01:04:26.213Z - success: huawei-runtime loaded
-2019-09-16T01:04:27.541Z - success: cpk-publish loaded
-2019-09-16T01:04:27.543Z - success: jsb-adapter loaded
-2019-09-16T01:04:27.605Z - success: oppo-runtime loaded
-2019-09-16T01:04:27.641Z - success: package-manager loaded
-2019-09-16T01:04:28.099Z - success: qqplay-adapter loaded
-2019-09-16T01:04:28.117Z - success: runtime-dev-tools loaded
-2019-09-16T01:04:28.136Z - success: sdkbox loaded
-2019-09-16T01:04:28.144Z - success: tester loaded
-2019-09-16T01:04:28.154Z - success: ui-grid loaded
-2019-09-16T01:04:28.169Z - success: ui-kit-preview-extra loaded
-2019-09-16T01:04:28.191Z - success: ui-kit-preview loaded
-2019-09-16T01:04:28.193Z - success: ui-kit loaded
-2019-09-16T01:04:28.201Z - success: ui-tree loaded
-2019-09-16T01:04:28.244Z - success: vivo-runtime loaded
-2019-09-16T01:04:28.245Z - success: weapp-adapter loaded
-2019-09-16T01:04:28.248Z - success: xiaomi-adapter loaded
-2019-09-16T01:04:28.314Z - success: assets loaded
-2019-09-16T01:04:28.316Z - success: builder loaded
-2019-09-16T01:04:29.048Z - success: cocos-services loaded
-2019-09-16T01:04:29.098Z - success: console loaded
-2019-09-16T01:04:29.192Z - success: fb-instant-games loaded
-2019-09-16T01:04:29.196Z - success: game-window loaded
-2019-09-16T01:04:29.198Z - success: google-instant-games loaded
-2019-09-16T01:04:29.217Z - success: hierarchy loaded
-2019-09-16T01:04:29.220Z - success: inspector loaded
-2019-09-16T01:04:29.222Z - success: keystore loaded
-2019-09-16T01:04:29.226Z - success: node-library loaded
-2019-09-16T01:04:29.228Z - success: package-asset loaded
-2019-09-16T01:04:29.230Z - success: preferences loaded
-2019-09-16T01:04:29.236Z - success: project-exporter loaded
-2019-09-16T01:04:29.238Z - success: project-importer loaded
-2019-09-16T01:04:29.241Z - success: project-settings loaded
-2019-09-16T01:04:29.246Z - success: scene loaded
-2019-09-16T01:04:29.248Z - success: simulator-debugger loaded
-2019-09-16T01:04:29.249Z - success: sprite-editor loaded
-2019-09-16T01:04:29.259Z - success: store loaded
-2019-09-16T01:04:29.265Z - success: timeline loaded
-2019-09-16T01:04:29.271Z - success: xiaomi-runtime loaded
-2019-09-16T01:04:32.160Z - normal: Loading packages
-2019-09-16T01:04:32.167Z - normal: Watching packages
-2019-09-16T01:04:33.264Z - normal: Run Application
-2019-09-16T01:04:34.390Z - info: Cocos Services load base data!
-2019-09-16T02:08:12.322Z - normal: "C:/backup/D/project/Cocos2d/start_project/start_project/library/imports/6d/6d91e591-4ce0-465c-809f-610ec95019c6.json" was released but maybe still referenced by "C:/backup/D/project/Cocos2d/start_project/start_project/library/imports/2a/2a296057-247c-4a1c-bbeb-0548b6c98650.json" (2a296057-247c-4a1c-bbeb-0548b6c98650)
+2019-09-19T01:18:50.440Z - normal: Load ~/.CocosCreator/settings.json
+2019-09-19T01:18:51.697Z - normal: Initializing Asset Database
+2019-09-19T01:18:51.734Z - normal: checking language setting...
+2019-09-19T01:18:51.734Z - normal: Language: en
+2019-09-19T01:18:54.671Z - success: preview server running at http://localhost:7456
+2019-09-19T01:18:54.674Z - success: protocol editor-framework registered
+2019-09-19T01:18:54.674Z - success: protocol app registered
+2019-09-19T01:18:54.674Z - success: protocol theme registered
+2019-09-19T01:18:54.674Z - success: protocol packages registered
+2019-09-19T01:18:54.674Z - success: protocol uuid registerred
+2019-09-19T01:18:54.674Z - success: protocol db registerred
+2019-09-19T01:18:54.674Z - success: protocol thumbnail registerred
+2019-09-19T01:18:54.675Z - success: protocol unpack registerred
+2019-09-19T01:18:54.675Z - success: protocol disable-commonjs registerred
+2019-09-19T01:18:55.026Z - normal: connected!
+2019-09-19T01:18:55.029Z - normal: Check project C:\backup\D\project\Cocos2d\start_project\start_project
+2019-09-19T01:18:55.033Z - normal: Initializing project C:\backup\D\project\Cocos2d\start_project\start_project
+2019-09-19T01:18:56.110Z - normal: Initializing Cocos2d
+2019-09-19T01:18:58.552Z - normal: Initializing engine extends
+2019-09-19T01:18:59.091Z - success: asset-db-debugger loaded
+2019-09-19T01:18:59.096Z - success: baidu-adapter loaded
+2019-09-19T01:18:59.104Z - success: color-picker loaded
+2019-09-19T01:18:59.531Z - success: fb-audience-network loaded
+2019-09-19T01:18:59.653Z - success: fb-live-stream loaded
+2019-09-19T01:18:59.670Z - success: google-play-instant loaded
+2019-09-19T01:18:59.715Z - success: huawei-runtime loaded
+2019-09-19T01:19:00.927Z - success: cpk-publish loaded
+2019-09-19T01:19:00.929Z - success: jsb-adapter loaded
+2019-09-19T01:19:00.992Z - success: oppo-runtime loaded
+2019-09-19T01:19:01.028Z - success: package-manager loaded
+2019-09-19T01:19:01.544Z - success: qqplay-adapter loaded
+2019-09-19T01:19:01.561Z - success: runtime-dev-tools loaded
+2019-09-19T01:19:01.581Z - success: sdkbox loaded
+2019-09-19T01:19:01.591Z - success: tester loaded
+2019-09-19T01:19:01.606Z - success: ui-grid loaded
+2019-09-19T01:19:01.622Z - success: ui-kit-preview-extra loaded
+2019-09-19T01:19:01.643Z - success: ui-kit-preview loaded
+2019-09-19T01:19:01.646Z - success: ui-kit loaded
+2019-09-19T01:19:01.652Z - success: ui-tree loaded
+2019-09-19T01:19:01.707Z - success: vivo-runtime loaded
+2019-09-19T01:19:01.711Z - success: weapp-adapter loaded
+2019-09-19T01:19:01.715Z - success: xiaomi-adapter loaded
+2019-09-19T01:19:01.784Z - success: assets loaded
+2019-09-19T01:19:01.786Z - success: builder loaded
+2019-09-19T01:19:02.375Z - success: cocos-services loaded
+2019-09-19T01:19:02.381Z - success: console loaded
+2019-09-19T01:19:02.419Z - success: fb-instant-games loaded
+2019-09-19T01:19:02.422Z - success: game-window loaded
+2019-09-19T01:19:02.424Z - success: google-instant-games loaded
+2019-09-19T01:19:02.429Z - success: hierarchy loaded
+2019-09-19T01:19:02.432Z - success: inspector loaded
+2019-09-19T01:19:02.434Z - success: keystore loaded
+2019-09-19T01:19:02.438Z - success: node-library loaded
+2019-09-19T01:19:02.439Z - success: package-asset loaded
+2019-09-19T01:19:02.440Z - success: preferences loaded
+2019-09-19T01:19:02.442Z - success: project-exporter loaded
+2019-09-19T01:19:02.444Z - success: project-importer loaded
+2019-09-19T01:19:02.447Z - success: project-settings loaded
+2019-09-19T01:19:02.451Z - success: scene loaded
+2019-09-19T01:19:02.453Z - success: simulator-debugger loaded
+2019-09-19T01:19:02.454Z - success: sprite-editor loaded
+2019-09-19T01:19:02.456Z - success: store loaded
+2019-09-19T01:19:02.461Z - success: timeline loaded
+2019-09-19T01:19:02.475Z - success: xiaomi-runtime loaded
+2019-09-19T01:19:05.701Z - normal: Loading packages
+2019-09-19T01:19:05.708Z - normal: Watching packages
+2019-09-19T01:19:06.049Z - info: Cocos Services load base data!
+2019-09-19T01:19:06.908Z - normal: Run Application
+2019-09-19T03:25:35.350Z - failed: [db-task][sync-changes] Failed to import asset C:\backup\D\project\Cocos2d\start_project\start_project\assets\scripts\uiCtrls\GameUI_ctrl.js, message: Compile error: SyntaxError: C:/backup/D/project/Cocos2d/start_project/start_project/assets/scripts/uiCtrls/GameUI_ctrl.js: Unexpected token (30:22)
+  28 |         cc.loader.loadRes('star', function (err, prefab) {
+  29 |             let item = cc.instantiate(prefab);
+> 30 |             this.node..addChild(item);
+     |                       ^
+  31 |             // item.addComponent(uiName + "_ctrl");
+  32 |         });
+  33 |         // let newStar = cc.instantiate(this.star);
+    at Parser.pp$5.raise (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (C:\CocosCreator_2.1.2\resources\app.asar\node_modules\babylon\lib\index.js:3306:19)
+2019-09-19T03:34:49.117Z - info: Only the prefab node "UI" and its child nodes are saved.
+2019-09-19T03:48:55.429Z - error: The 'default' value of 'player.jumpHeight' should not be used with a 'get' function.
+    at Object.cc.errorID (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:205:36)
+    at declareProperties (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:17:4)
+    at C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:128:13
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:135:11)
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:138:3)
+    at Module._compile (module.js:571:32)
+2019-09-19T03:49:33.317Z - error: The 'default' value of 'player.jumpHeight' should not be used with a 'get' function.
+    at Object.cc.errorID (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:205:36)
+    at declareProperties (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:17:4)
+    at C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:128:13
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:135:11)
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:138:3)
+    at Module._compile (module.js:571:32)
+2019-09-19T03:49:55.944Z - error: The 'default' value of 'player.jumpHeight' should not be used with a 'get' function.
+    at Object.cc.errorID (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:205:36)
+    at declareProperties (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:17:4)
+    at C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:128:13
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:135:11)
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:138:3)
+    at Module._compile (module.js:571:32)
+2019-09-19T03:50:23.700Z - error: The 'default' value of 'player.jumpHeight' should not be used with a 'get' function.
+    at Object.cc.errorID (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:205:36)
+    at declareProperties (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:17:4)
+    at C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:128:13
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:135:11)
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:138:3)
+    at Module._compile (module.js:571:32)
+2019-09-19T03:50:38.109Z - error: The 'default' value of 'player.jumpHeight' should not be used with a 'get' function.
+    at Object.cc.errorID (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:205:36)
+    at declareProperties (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.1.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:17:4)
+    at C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:128:13
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:135:11)
+    at Object.<anonymous> (C:\backup\D\project\Cocos2d\start_project\start_project\temp\quick-scripts\assets\scripts\player.js:138:3)
+    at Module._compile (module.js:571:32)
